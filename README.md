@@ -45,6 +45,7 @@ Développée avec **.NET** et une combinaison de bibliothèques puissantes comme
 ## Version
 
 - **V0.1** - Première version de Scan_Flash, avec simulation de saisie clavier.
+- **V0.2** - Version plus aboutie (voir changelog)
 
 ## Contributions
 
