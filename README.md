@@ -2,6 +2,8 @@
 
 ## Description
 
+![Scan_Flash](https://github.com/user-attachments/assets/601f034b-89ca-4a75-bf9a-5ba70d2e46b2)
+
 **Scan_Flash** est une application puissante et intuitive qui permet de scanner des codes-barres à partir de plusieurs écrans, en offrant des fonctionnalités avancées telles que la capture d'écran complète ou la sélection manuelle d'une zone d'intérêt. Grâce à son interface simple et à ses fonctionnalités de simulation de saisie, Scan_Flash permet d'intégrer les résultats des scans directement dans des applications telles que des éditeurs de texte, des systèmes de gestion de contenu ou tout autre logiciel supportant la saisie au clavier.
 
 Développée avec **.NET** et une combinaison de bibliothèques puissantes comme **ZXing.Net** pour le décodage de codes-barres et **InputSimulator** pour la simulation de saisie clavier, cette application est idéale pour les professionnels qui cherchent une solution rapide et fiable pour gérer les codes-barres dans leur environnement de travail.
